@@ -1,0 +1,9 @@
+.AgregarCitas {
+    background-image: radial-gradient(circle, #010812, #111a1e, #1e2828, #2f3632, #42443e);
+    text-align: center;
+}
+.AgregarCitas table {
+    color: aliceblue;
+    text-align: center;
+}
+

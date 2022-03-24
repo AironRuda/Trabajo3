@@ -1,0 +1,15 @@
+.botonSuperior {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #111a1e;
+    font-size: 30px;
+    padding: 30px;
+}
+.botonSuperior a {
+    text-decoration: none;
+    color: aliceblue;
+}
+.botonSuperior a:hover {
+    background-color: #1e2828;
+    border-radius: 5px;
+}

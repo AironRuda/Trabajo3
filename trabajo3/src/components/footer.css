@@ -1,0 +1,17 @@
+.contactos{
+    background-color: #010812;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    margin-bottom: 0;
+    color: aliceblue;
+    text-align: center;
+}
+.contactos ul {
+    display: flex;
+}
+.contactos ul li a:hover{
+    background-color: #111a1e;
+}

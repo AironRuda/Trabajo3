@@ -1,0 +1,29 @@
+.menuInicio {
+    background-image: radial-gradient(circle, #010812, #111a1e, #1e2828, #2f3632, #42443e);
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+.imagen{
+    text-align: right;
+    background-color: rgb(0, 133, 250);
+    border-radius: 5px;
+}
+.menu li{
+    padding: 5px;
+}
+ul li {
+    font-size: 24px;
+    text-decoration-line: none;
+    list-style: none;
+    margin: 10px 15px;
+}
+ul li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+ul li a:hover {
+    background-color: #010812;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
